@@ -13,7 +13,7 @@ video :
 5. penutup
 
 layout video :
-bumper video
+bumper video (LOGO UTI)
 logo UTI sebalah kiri atas
 
 ending video :
@@ -22,3 +22,5 @@ credit tittle :
 - dosen pengampu : donaya pasha, m.kom.
 
 deadline 2 minggu
+
+WA teguh : 0856 6493 9217
