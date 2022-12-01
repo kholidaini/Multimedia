@@ -13,6 +13,8 @@ video :
 5. penutup
 
 layout video :
+background musik (ambil dari youtube)
+berikan lower third (npm-nama)
 bumper video (LOGO UTI)
 logo UTI sebalah kiri atas
 
