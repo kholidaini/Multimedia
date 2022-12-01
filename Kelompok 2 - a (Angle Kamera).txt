@@ -8,7 +8,10 @@ Anggota :
 video :
 1. prolog (ketua kelompok) didampingi anggota tim
 2. pengenalan 
-3. isi video
+3. isi video :
+	- devi materi
+	- contoh angle
+	
 4. call to action
 5. penutup
 
